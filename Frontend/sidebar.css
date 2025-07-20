@@ -1,0 +1,13 @@
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background-color: #6a5acd;
+  color: white;
+  padding: 20px;
+  position: fixed;
+}
+
+.sidebar .nav-link.active {
+  background-color: #8a2be2;
+  border-radius: 5px;
+}
